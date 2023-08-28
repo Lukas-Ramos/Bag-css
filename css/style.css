@@ -56,7 +56,7 @@ html {
     margin-top: 58px;
     border: 4px solid #491033;
     border-radius: 11px;
-    box-shadow: 0 4px 0 0 #c1382e, inset 0px 4px 1px 0 #c03527;
+    box-shadow: 0 4px 0 0  #cc3a30, inset 0px 4px 1px 0 #c03527;
     content: '||';
     color: transparent;
     font-family: Comic Sans MS;
